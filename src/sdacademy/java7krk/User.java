@@ -1,4 +1,7 @@
 package sdacademy.java7krk;
 
-public class User {
+public abstract class User {
+
+    abstract void printMyRole();
+
 }
